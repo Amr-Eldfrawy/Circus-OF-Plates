@@ -63,7 +63,7 @@ User Guide
 6. If stack has more than 20 plates the game ends in fair
 
 
-ScreenShots
+Screen Shots
 ===========
 https://www.dropbox.com/s/uzolx9wkgo5nqtw/Captur2e.PNG?dl=0
 https://www.dropbox.com/s/jxi7cpdbp7375yc/Capture.PNG?dl=0
