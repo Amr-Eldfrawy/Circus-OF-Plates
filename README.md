@@ -13,8 +13,7 @@ o Dynamic linkage
 o Factory Pattern
 o snapshot Pattern
 
-
-Interfaces and Observer Pattern
+ Observer Pattern
 ====================================
 o Using the Observer Pattern help The Clown Object to notify the Shapes on his hand about
 his moves , so when a the Clown moves by +dx or – dx he used the Observer .Update to notify
