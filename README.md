@@ -20,10 +20,6 @@ o Using the Observer Pattern help The Clown Object to notify the Shapes on his h
 his moves , so when a the Clown moves by +dx or – dx he used the Observer .Update to notify
 every Shape in his hand to change their positions
 
-Inheritance technique
-=========================
-o The Shape Class is the main geometric shape in the design and we used Rectangle Class as a subclass from Shape Class
-
 Singleton Pattern
 ====================
 o This is useful when exactly one object is Created from the One class
