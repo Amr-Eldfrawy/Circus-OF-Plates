@@ -61,3 +61,9 @@ User Guide
 4. Load: Ctrl + L
 5. Player x wins if his score reached 20
 6. If stack has more than 20 plates the game ends in fair
+
+
+ScreenShots
+===========
+https://www.dropbox.com/sh/xlxplaazg2kiome/AACUcopXUVyCVbPZ8aIPKGQOa?dl=0
+https://www.dropbox.com/s/jxi7cpdbp7375yc/Capture.PNG?dl=0
